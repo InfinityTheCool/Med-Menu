@@ -1,0 +1,13 @@
+/*
+Author: James Pangia
+Group: James Pangia, Dennis Parkman, Seth Rozelle
+ */
+.screen-height
+{
+	height: 98vh;
+}
+
+.y-scrollable
+{
+	overflow-y:scroll;
+}
